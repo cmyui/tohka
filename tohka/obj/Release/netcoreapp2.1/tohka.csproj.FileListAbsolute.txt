@@ -1,0 +1,10 @@
+C:\Users\cmyui\source\repos\tohka\tohka\bin\Release\netcoreapp2.1\tohka.deps.json
+C:\Users\cmyui\source\repos\tohka\tohka\bin\Release\netcoreapp2.1\tohka.runtimeconfig.json
+C:\Users\cmyui\source\repos\tohka\tohka\bin\Release\netcoreapp2.1\tohka.runtimeconfig.dev.json
+C:\Users\cmyui\source\repos\tohka\tohka\bin\Release\netcoreapp2.1\tohka.dll
+C:\Users\cmyui\source\repos\tohka\tohka\bin\Release\netcoreapp2.1\tohka.pdb
+C:\Users\cmyui\source\repos\tohka\tohka\obj\Release\netcoreapp2.1\tohka.csproj.CoreCompileInputs.cache
+C:\Users\cmyui\source\repos\tohka\tohka\obj\Release\netcoreapp2.1\tohka.AssemblyInfoInputs.cache
+C:\Users\cmyui\source\repos\tohka\tohka\obj\Release\netcoreapp2.1\tohka.AssemblyInfo.cs
+C:\Users\cmyui\source\repos\tohka\tohka\obj\Release\netcoreapp2.1\tohka.dll
+C:\Users\cmyui\source\repos\tohka\tohka\obj\Release\netcoreapp2.1\tohka.pdb

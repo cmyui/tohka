@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject>tohka.Program</StartupObject>
+    <NeutralLanguage>en-CA</NeutralLanguage>
+    <AssemblyVersion>0.0.0.1</AssemblyVersion>
+    <Version>0.0.1</Version>
+    <Description>A very spaghetti bancho server attempt by cmyui
+
+2019-05-16 start date</Description>
+    <Win32Resource />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="MiscUtil">
+      <HintPath>..\..\..\..\Desktop\MiscUtil.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
